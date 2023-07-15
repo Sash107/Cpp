@@ -24,5 +24,5 @@ int main(){
     if (b==0){
         std::cout<<n<<" is prime number";
     }
-return0;
+return 0;
 }
