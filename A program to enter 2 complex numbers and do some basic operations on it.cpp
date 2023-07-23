@@ -32,7 +32,7 @@ class Complex{
         return temp;
     }
     void Display(){
-        if (imag>0){
+        if (imag>=0){
         cout << real<<" + "<<imag<<"i"<<endl;
         }
         else {
